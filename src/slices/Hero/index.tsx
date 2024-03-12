@@ -56,3 +56,4 @@ const renderLetters = (name:KeyTextField, key:string) =>{
 };
 
 export default Hero;
+//1.54 pe light gayi thi, continue from there 
